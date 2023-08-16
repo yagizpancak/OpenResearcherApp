@@ -1,0 +1,64 @@
+[
+ {
+  "number_of_papers": 2,
+  "creator": "yagiz",
+  "name": "newList",
+  "id": 1,
+  "papers": [
+   "An Experimental Evaluation of Test Driven Development vs. Test-Last Development with Industry Professionals",
+   "Test-Driven Modeling for model-Driven Development"
+  ]
+ },
+ {
+  "number_of_papers": 2,
+  "creator": "mert",
+  "name": "newList2",
+  "id": 2,
+  "papers": ["Test-Driven Modeling for model-Driven Development"]
+ },
+ {
+  "number_of_papers": 0,
+  "creator": "mert",
+  "name": "aa",
+  "id": 2,
+  "papers": [
+   "An Experimental Evaluation of Test Driven Development vs. Test-Last Development with Industry Professionals",
+   "Test-Driven Modeling for model-Driven Development"
+  ]
+ },
+ {
+  "number_of_papers": 0,
+  "creator": "mert",
+  "name": "bb",
+  "id": 3,
+  "papers": ["Test-Driven Modeling for model-Driven Development"]
+ },
+ {
+  "number_of_papers": 0,
+  "creator": "mert",
+  "name": "cc",
+  "id": 4,
+  "papers": ["Test-Driven Modeling for model-Driven Development"]
+ },
+ {
+  "number_of_papers": 0,
+  "creator": "mert",
+  "name": "abc",
+  "id": 5,
+  "papers": ["Test-Driven Modeling for model-Driven Development"]
+ },
+ {
+  "number_of_papers": 0,
+  "creator": "yagiz",
+  "name": "list2",
+  "id": 6,
+  "papers": []
+ },
+ {
+  "number_of_papers": 0,
+  "creator": "yagiz",
+  "name": "aa",
+  "id": 7,
+  "papers": []
+ }
+]

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<researchers>
+  <researcher>
+    <name>yagiz</name>
+    <password>123</password>
+    <following>
+      <name>mert</name>
+    </following>
+    <follower>
+      <name>serhat_caner</name>
+      <name>dilek_ozturk</name>
+    </follower>
+  </researcher>
+  <researcher>
+    <name>mert</name>
+    <password>123</password>
+    <following/>
+    <follower>
+      <name>yagiz</name>
+      <name>tugkan_tuglular</name>
+    </follower>
+  </researcher>
+  <researcher>
+    <name>tugkan_tuglular</name>
+    <password>123</password>
+    <following>
+      <name>mert</name>
+    </following>
+    <follower/>
+  </researcher>
+  <researcher>
+    <name>dilek_ozturk</name>
+    <password>123</password>
+    <following>
+      <name>yagiz</name>
+    </following>
+    <follower/>
+  </researcher>
+  <researcher>
+    <name>serhat_caner</name>
+    <password>123</password>
+    <following>
+      <name>yagiz</name>
+    </following>
+    <follower/>
+  </researcher>
+</researchers>
